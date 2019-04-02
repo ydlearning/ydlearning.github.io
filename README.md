@@ -35,8 +35,7 @@ API-Documentation:
   
 
 ## Tech Stack YDL
-
-<img src="/images/stack_features.jpg" alt="Tech stack">
+<a href="https://raw.githubusercontent.com/ydlearning/ydlearning.github.io/master/images/stack_features.jpg" target="_blank"><img src="/images/stack_features.jpg" alt="Tech stack"></a>
 
 View bigger image file: [Image Link](/images/stack_features.jpg)
 
