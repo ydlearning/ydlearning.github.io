@@ -36,9 +36,6 @@ This project was completed for the module "Programming Lab: Social Networking" a
 
 Version 2 is a further development of Young And Digital Learning.
 
-## Server setup tutorial
-[tutorial](Server-setup-manual.md)
-
 ## Links 
 Our organization: [YoungAndDigitalLearning](https://github.com/ydlearning/)
 
